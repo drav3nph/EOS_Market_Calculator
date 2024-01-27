@@ -1,4 +1,4 @@
-# EOS_Market_Calculator
+# Echo Tax
 - a simple calculator to compute the market sales tax in game of Echo of Soul
 
 ### Disclaimer
